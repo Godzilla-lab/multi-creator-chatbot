@@ -39,6 +39,7 @@ build/
 *.sql
 *.log
 *.md
+!README.md
 *.py
 
 # Local / external toolkit
