@@ -47,3 +47,4 @@ build/
 # Conversation data (PII)
 *.csv
 csv.file
+clients-history
